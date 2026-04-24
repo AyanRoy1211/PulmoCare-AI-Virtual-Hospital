@@ -1,0 +1,29 @@
+# Medical scribe libraries
+groq
+google-genai
+chromadb
+streamlit
+python-dotenv
+Pillow
+pypdf
+sentence-transformers
+openai
+
+# Python libraries (Audio & ML)
+PyWavelets
+soundfile
+librosa
+torch
+torchvision
+torchaudio
+tqdm
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+
+# Backend libraries (FastAPI)
+fastapi
+uvicorn
+python-multipart

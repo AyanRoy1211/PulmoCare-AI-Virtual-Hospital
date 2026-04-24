@@ -1,0 +1,10 @@
+.env
+chroma_store/
+backend/ai/ml_models/chest_xray/weights/
+backend/ai/ml_models/cough_analysis/weights/
+__pycache__/
+*.pyc
+*.h5
+*.pth
+.DS_Store
+.venv
